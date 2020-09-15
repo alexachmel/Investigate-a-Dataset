@@ -4,9 +4,9 @@ For this project I analyzed the TMDb Movie Data as a result of completing Introd
 
 Installations: In this project Python 3.x and the following Python libraries were installed:
 
-Pandas https://pandas.pydata.org/
-Numpy https://numpy.org/
-Matplotlib.pyplot https://matplotlib.org/api/_as_gen/matplotlib.pyplot.html
+Pandas https://pandas.pydata.org/  
+Numpy https://numpy.org/  
+Matplotlib.pyplot https://matplotlib.org/api/_as_gen/matplotlib.pyplot.html  
 Seaborn https://seaborn.pydata.org/  
 
 Data:
